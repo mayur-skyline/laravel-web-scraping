@@ -1,0 +1,86 @@
+# Laravel specific
+/public/hot
+/public/storage
+/public/build
+/public/dist
+/public/build
+/public/js/app.js
+/public/js/extention.js
+/public/js/manifest.js
+/public/js/vendor.js
+/storage/*.key
+/vendor
+.env
+.env.*
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+yarn.lock
+.vagrant
+
+# Vue.js
+/node_modules
+/dist
+/vue-asset-manifest.json
+/vue*.js
+npm-debug.log
+yarn-error.log
+
+# Compiled files
+/.nuxt
+/.idea
+/.history
+/.vscode
+/.sass-cache
+/.sonar
+/coverage
+/build
+
+# Logs and backups
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+error.log
+errors
+app.log
+logs
+*.log.*
+*.log
+*.swp
+
+# Dependency directories
+/node_modules
+/package-lock.json
+/yarn-error.log
+.yarn-integrity
+
+# Editor / IDE
+.idea
+.vscode
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+.komodotools
+.sass-cache
+
+# OS
+.DS_Store
+Thumbs.db
+*.bak
+*.backup
+*.swp
+
+# Applications
+*.app
+*.exe
+*.war
+
+# Large media files
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv
